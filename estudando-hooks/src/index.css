@@ -11,6 +11,7 @@ body {
 .red {
     font-weight: 700;
     color: red;
+    font-size: 5em;
 }
 
 .input {
@@ -29,7 +30,9 @@ body {
 
     font-size: 3rem;
     color: #fff;
+    transform: translateY(4px);
 }
+
 
 .center {
     display: flex;

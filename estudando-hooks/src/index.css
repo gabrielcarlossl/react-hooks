@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
+    height: auto;
 }
 
 .text {
@@ -27,7 +28,6 @@ body {
     border: none;
     outline: none;
     background-color: #0092c3;
-
     font-size: 3rem;
     color: #fff;
     transform: translateY(4px);
@@ -40,4 +40,8 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+.li_State{
+    padding-bottom: 20px;
 }
